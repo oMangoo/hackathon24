@@ -10,3 +10,6 @@ Hi, I'm Malia. For my first hackathon, I chose to predict the winning times of a
 Project
 
 Initially, I built a model that predicts the winners of the Paris Olympics After (like number of gold medals each country earned), however I switched gears to focus on my swimming concept as it has a more practical use in my life. After figuring out how to load up my datasets and how to clean them, I evaluated and tested a few different models and ended up using a random forest regressor model. I was able to achieve the best results with this model and I was able to visualize this using ploty express on google colab.
+
+Future
+This was my first hackathon, but it won't be my last. Though it didn't seem like it at the time, the healthy stress was kinda fun and I loved learning more about data science (thanks miracle). Building a model that makes legitamate predictions was mindboggling to me but now that I actually did it, I feel so accomplished. I will be making adjustments and improvements to better this project and so I can use it in my life. This was an awesome experience, thanks yall.
